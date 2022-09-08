@@ -1,0 +1,19 @@
+Twitter has major security problems that pose a threat to its own users' personal information, to company 
+shareholders, to national security, and to democracy, according to an explosive whistleblower disclosure obtained 
+exclusively by CNN and The Washington Post.
+
+The disclosure, sent last month to Congress and federal agencies, paints a picture of a chaotic and reckless 
+environment at a mismanaged company that allows too many of its staff access to the platform's central controls and 
+most sensitive information without adequate oversight. It also alleges that some of the company's senior-most 
+executives have been trying to cover up Twitter's serious vulnerabilities, and that one or more current employees 
+may be working for a foreign intelligence service.
+
+The whistleblower, who has agreed to be publicly identified, is Peiter "Mudge" Zatko, who was previously the 
+company's head of security, reporting directly to the CEO. Zatko further alleges that Twitter's leadership has 
+misled its own board and government regulators about its security vulnerabilities, including some that could 
+allegedly open the door to foreign spying or manipulation, hacking and disinformation campaigns. The whistleblower 
+also alleges Twitter does not reliably delete users' data after they cancel their accounts, in some cases because 
+the company has lost track of the information, and that it has misled regulators about whether it deletes the data 
+as it is required to do. The whistleblower also says Twitter executives don't have the resources to fully 
+understand the true number of bots on the platform, and were not motivated to. Bots have recently become central to 
+Elon Musk's attempts to back out of a $44 billion deal to buy the company (although Twitter denies Musk's claims).
